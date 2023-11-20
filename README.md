@@ -1,4 +1,4 @@
-# 🚧 ProtoType AutoGen Easily 
+# 🚧 Prototype Multi-Agent Easily 
 
 ## 👨‍👩‍👦‍👦 Prototype Multi-Agents without Code
 
